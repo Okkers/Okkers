@@ -151,7 +151,7 @@ My passion lies in machine learning analysis and application, currently with a s
     />
 
 # Current projects
-[Locomotion prediction in zebrafish for modelling in virtual environments] (https://github.com/ambroseling/Zebrafish-Locomotion-Prediction), Linlab @ UofT
+[Locomotion prediction in zebrafish for modelling in virtual environments](https://github.com/ambroseling/Zebrafish-Locomotion-Prediction), Linlab @ UofT
 
 # Connect with me
 <p align="left">
