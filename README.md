@@ -5,6 +5,19 @@
 [![Generic badge](https://img.shields.io/badge/Reinforcement_Learning-YES-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Seeking_For_Internship_Oppurtunities_2023-YES-<COLOR>.svg)](https://shields.io/)
 
+# About me
+<p align="center">
+        <a href="" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/ambroseling/ambroseling/assets/93873940/bb0370c1-1fe1-40cb-ac54-ce241ae59657"
+      alt=""
+      width="250"
+      height="250"
+    />
+  </a> 
+</p>
+Hi, I'm Oskar Lang Moesmand, a recent undergradute in Machine Learning and Data Science, University of Copenhagen. 
+My passion lies in machine learning analysis and application, current with a strong love for transformer architectures. I'm currently authoring a paper on locomotion prediction in zebrafish @ Linlab, UofT, which is such an exciting project to apply machine learning to. Doing small projects with cloud computing and reinforcement learning is my obsession at the moment. I also enjoy a good cup of coffee, doing all kinds of puzzles and climbing. Feel free to connect with me below!
 
 # Some of my expertise...
 ## Languages
@@ -119,6 +132,26 @@
   </a> 
 </p>
 
+## Hardware deployment
+<p align="left">
+    <a href="" target="_blank" rel="noreferrer">
+    <img
+      src=https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg
+      alt=""
+      width="40"
+      height="43"
+    />
+</a>
+    <a href="" target="_blank" rel="noreferrer">
+    <img
+      src=https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg
+      alt=""
+      width="40"
+      height="43"
+    />
+
+# Current projects
+TBA
 <!--
 **Okkers/Okkers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
