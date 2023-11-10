@@ -11,7 +11,7 @@
 <p align="left">
     <a href="" target="_blank" rel="noreferrer">
     <img
-      src="https://github.com/ambroseling/ambroseling/assets/93873940/96d50cc4-ad77-4a4f-9054-ba6d68b4ed86"
+      src=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
       alt=""
       width="40"
       height="43"
@@ -19,7 +19,7 @@
   </a>  
         <a href="" target="_blank" rel="noreferrer">
     <img
-      src="https://github.com/ambroseling/ambroseling/assets/93873940/b2739b75-53b8-4070-bd3e-74abf82a8a3e"
+      src=https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-plain.svg
       alt=""
       width="40"
       height="43"
@@ -27,7 +27,7 @@
   </a> 
             <a href="" target="_blank" rel="noreferrer">
     <img
-      src="https://github.com/ambroseling/ambroseling/assets/93873940/e93cf919-ae42-4d76-a70a-9ea3f55bc502"
+      src=https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg
       alt=""
       width="40"
       height="43"
@@ -35,7 +35,15 @@
   </a> 
             <a href="" target="_blank" rel="noreferrer">
     <img
-      src="https://github.com/ambroseling/ambroseling/assets/93873940/03f658af-6426-4c55-807a-bb8ee2de805b"
+      src=https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg
+      alt=""
+      width="40"
+      height="43"
+    />
+  </a> 
+            <a href="" target="_blank" rel="noreferrer">
+    <img
+      src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg
       alt=""
       width="40"
       height="43"
