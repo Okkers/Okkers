@@ -17,7 +17,7 @@
   </a> 
 </p>
 Hi, I'm Oskar Lang Moesmand, a recent undergradute in Machine Learning and Data Science, University of Copenhagen. 
-My passion lies in machine learning analysis and application, current with a strong love for transformer architectures. I'm currently authoring a paper on locomotion prediction in zebrafish @ Linlab, UofT, which is such an exciting project to apply machine learning to. Doing small projects with cloud computing and reinforcement learning is my obsession at the moment. I also enjoy a good cup of coffee, doing all kinds of puzzles and climbing. Feel free to connect with me below!
+My passion lies in machine learning analysis and application, currently with a strong interest in transformer architectures. I'm currently authoring a paper on locomotion prediction in zebrafish @ Linlab, UofT, which is such an exciting project to apply machine learning to. On the side, my obsession is small projects on cloud computing and reinforcement learning. I also enjoy a good cup of coffee, doing all kinds of puzzles and climbing. Feel free to connect with me below!
 
 # Some of my expertise...
 ## Languages
