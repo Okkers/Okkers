@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Oskar 👋
+[![Generic badge](https://img.shields.io/badge/Deep_Learning-YES-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Machine_Learning-YES-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Neuroscience-YES-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Entrepenur-YES-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Seeking_For_Internship_Oppurtunities_2023-YES-<COLOR>.svg)](https://shields.io/)
+
 
 <!--
 **Okkers/Okkers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
