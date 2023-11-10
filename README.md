@@ -154,5 +154,5 @@ My passion lies in machine learning analysis and application, currently with a s
 [Locomotion prediction in zebrafish for modelling in virtual environments] (https://github.com/ambroseling/Zebrafish-Locomotion-Prediction), Linlab @ UofT
 
 # Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oskar-lang-moesmand-128ab1269/)
+[![Linkedin Badge](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg)](https://www.linkedin.com/in/oskar-lang-moesmand-128ab1269/)
 
