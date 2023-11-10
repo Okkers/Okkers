@@ -9,7 +9,7 @@
 <p align="center">
         <a href="" target="_blank" rel="noreferrer">
     <img
-      src=https://github.com/Okkers/Okkers/assets/63322474/b70a16fe-50d0-4498-910b-969cf920c359)
+      src=https://github.com/Okkers/Okkers/assets/63322474/5c622cf3-bf1b-481a-8c65-e50ec6ff5bf4
       alt=""
       width="250"
       height="250"
