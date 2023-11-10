@@ -1,4 +1,4 @@
-### Hi there, I'm Oskar 👋
+## Hi there, I'm Oskar 👋
 [![Generic badge](https://img.shields.io/badge/Deep_Learning-YES-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Machine_Learning-YES-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Algorithms_and_Data_Structures-YES-<COLOR>.svg)](https://shields.io/)
@@ -23,6 +23,7 @@
       alt=""
       width="40"
       height="43"
+      
     />
   </a> 
             <a href="" target="_blank" rel="noreferrer">
@@ -44,6 +45,74 @@
             <a href="" target="_blank" rel="noreferrer">
     <img
       src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg
+      alt=""
+      width="40"
+      height="43"
+    />
+  </a> 
+</p>
+
+## ML and Data Science
+<p align="left">
+    <a href="" target="_blank" rel="noreferrer">
+    <img
+      src=https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg
+      alt=""
+      width="40"
+      height="43"
+    />
+  </a>  
+        <a href="" target="_blank" rel="noreferrer">
+    <img
+      src=https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg
+      alt=""
+      width="40"
+      height="43"
+    />
+  </a> 
+        <a href="" target="_blank" rel="noreferrer">
+    <img
+      src=https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg
+      alt=""
+      width="40"
+      height="43"
+    />
+  </a> 
+        <a href="" target="_blank" rel="noreferrer">
+    <img
+      src=https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg
+      alt=""
+      width="40"
+      height="43"
+    />
+  </a> 
+        <a href="" target="_blank" rel="noreferrer">
+    <img
+      src=https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg
+      alt=""
+      width="40"
+      height="43"
+    />
+  </a> 
+        <a href="" target="_blank" rel="noreferrer">
+    <img
+      src=https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg
+      alt=""
+      width="40"
+      height="43"
+    />
+  </a> 
+        <a href="" target="_blank" rel="noreferrer">
+    <img
+      src=https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg
+      alt=""
+      width="40"
+      height="43"
+    />
+  </a> 
+        <a href="" target="_blank" rel="noreferrer">
+    <img
+      src=https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg
       alt=""
       width="40"
       height="43"
