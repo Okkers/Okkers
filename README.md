@@ -3,7 +3,6 @@
 [![Generic badge](https://img.shields.io/badge/Machine_Learning-YES-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Algorithms_and_Data_Structures-YES-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Reinforcement_Learning-YES-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Seeking_For_Internship_Oppurtunities_2023-YES-<COLOR>.svg)](https://shields.io/)
 
 # About me
 <p align="center">
